@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 hola
 cambio
 cambio 2
+=======
+hola
+>>>>>>> parent of 728f541 (cambio)
